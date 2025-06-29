@@ -1,0 +1,316 @@
+[
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "HumanMessage"
+    ],
+    "kwargs": {
+      "content": "你好",
+      "type": "human"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "你好！有什么可以帮助你的吗？如果你有任何问题或需要帮忙，请随时告诉我。",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "HumanMessage"
+    ],
+    "kwargs": {
+      "content": "我叫fhs",
+      "type": "human"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "你好，fhs！有什么问题我可以帮忙解决吗？",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "HumanMessage"
+    ],
+    "kwargs": {
+      "content": "我是谁",
+      "type": "human"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "您是一个使用这个平台的用户，有任何问题或需要帮助，我都会尽力提供支持和解答。如果您有任何特定的问题或需求，请随时告诉我！",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  }
+]

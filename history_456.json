@@ -1,0 +1,32 @@
+[
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "HumanMessage"
+    ],
+    "kwargs": {
+      "content": "你好",
+      "type": "human"
+    }
+  },
+  {
+    "lc": 1,
+    "type": "constructor",
+    "id": [
+      "langchain",
+      "schema",
+      "messages",
+      "AIMessage"
+    ],
+    "kwargs": {
+      "content": "你好！有什么可以帮助你的吗？如果你有任何问题或需要任何帮助，请随时告诉我。",
+      "type": "ai",
+      "tool_calls": [],
+      "invalid_tool_calls": []
+    }
+  }
+]
